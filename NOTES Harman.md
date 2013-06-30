@@ -50,6 +50,13 @@ __Real objects only have vertical relations. Sensual objects only have horizonta
 
 ######Object-Quality Relations
 
+> Qualities cannot be encountered in a vacuum, but are always emanated or emitted from some sensual object (120)
+
+> Even inanimate objects do not react to all the data available to them; minute fluctuations in the surface of a table may affect a paperweight in some way without the paperweight ceasing to encounter it as a table. (120-1)
+
+__By separating sensual object and qualities, changes in the qualities of a sensual object that is in relation to another need not affect the other object.__
+
+
 
 ***
 
