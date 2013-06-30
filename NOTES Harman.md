@@ -14,15 +14,15 @@
 
 > Hence, the true duality is not between minds and bodies, but between real and sensual objects. (117-8)
 
-This illustrates the formation of an object. Objects can be formed from:
+__This illustrates the formation of an object. Objects can be formed from:__
 *	pulling from an API that connects to a database of static content (eg. tumblr posts, tweets, etc)
 *	dissecting another object, pulling out key components (such as quotes, images, videos, tags, etc)
 *	combining multiple objects
 *	pulling from a live streaming API of sensor flow data (eg. temperature sensor, light sensor, video stream, etc)
 
-
 ***
-######Object Relations
+
+######Object-Object Relations
 
 > Recall that the sensual is what exists only in relation to the perceiver, and that the real is whatever withdraws from that relation. But if we consider a real hammer, it is not just withdrawn from any relation that other entities might have with it. The hammer is also _composed_ of relations between its component objects. (110)
 
@@ -32,7 +32,13 @@ This illustrates the formation of an object. Objects can be formed from:
 
 > Human consciousness does not transcend the cosmos and observe it from a neutral scientific void, but forever burrows through an intermediate layer of reality, no more aware of the larger objects to which it belongs than of the tool-beings that withdraw from it. (114)
 
-Objects have relations in two axes: vertical and horizontal. Vertical relations are those pieces that make up an object, the smaller components that aggregate into the object. Horizontal relations are relations to other objects in the world.
+> Object-oriented ontology holds that the human-world relation has no privilege at all. (119)
+
+> [Rather than between humans and non-humans,] the basica rift in the cosmos lies between objects and relations in general: between their autonomous reality outside all relation, and their caricatured form in the sensual life of other objects. (119-20)
+
+> If all relations are on the same footing, and all relations are equally inept at exhausting the depths of their terms, then an intermediate form of contact between things must be possible. This contact can only take a _sensual_ form, since it can only encounter translated or distorted versions of other objects. (120)
+
+Objects have relations in two axes: vertical and horizontal. Vertical relations are those component pieces that make up a real object. Horizontal relations are relations to other objects in the world, and are thus reserved only for sensual objects.
 
 __Real objects only have vertical relations. Sensual objects only have horizontal relations.__
 
@@ -42,8 +48,15 @@ __Real objects only have vertical relations. Sensual objects only have horizonta
 
 ***
 
+######Object-Quality Relations
+
+
+***
 
 #####Terms
 
 __Taxonomic Fallacy__
 Wrongly ascribing two different ontological structures to two separate _kinds_ of beings. Harman prefers that everything is just an object, which avoids correlationism.
+
+__Speculative Psychology__
+> Skrbina observes that panpsychism has no need to project special human traits onto rocks and atoms. In fact, philosophy needs a more dedicated speculation on the different levels of psyche at different levels of objects: a still nonexistant field that I like to call "speculative psychology". (120)
