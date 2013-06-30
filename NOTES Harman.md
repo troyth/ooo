@@ -15,6 +15,10 @@
 > Hence, the true duality is not between minds and bodies, but between real and sensual objects. (117-8)
 
 This illustrates the formation of an object. Objects can be formed from:
+*	pulling from an API that connects to a database of static content (eg. tumblr posts, tweets, etc)
+*	dissecting another object, pulling out key components (such as quotes, images, videos, tags, etc)
+*	combining multiple objects
+*	pulling from a live streaming API of sensor flow data (eg. temperature sensor, light sensor, video stream, etc)
 
 
 ***
