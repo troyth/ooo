@@ -1,6 +1,6 @@
 #Notes from Graham Harman Texts
 
-###_The Quadruple Object_
+##_The Quadruple Object_
 
 ######Objects
 
@@ -56,11 +56,14 @@ __Real objects only have vertical relations. Sensual objects only have horizonta
 
 __By separating sensual object and qualities, changes in the qualities of a sensual object that is in relation to another need not affect the other object.__
 
-
+	Schema
+		SensualObject.sensual_qualities: new SensualQualities({
+			data: data
+			})
 
 ***
 
-#####Terms
+####Terms
 
 __Taxonomic Fallacy__
 Wrongly ascribing two different ontological structures to two separate _kinds_ of beings. Harman prefers that everything is just an object, which avoids correlationism.
