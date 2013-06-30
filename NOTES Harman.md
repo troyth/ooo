@@ -90,6 +90,11 @@ __When we pull elements from a real object by annotating, highlighting, dissecti
 
 __A tumblr post, for instance, is a real object because we can make changes to the tumblr post on tumblr, re-sync, and it will still have the same id, be largely the same content, and thus the same real object, it will just have had some of its qualities changed (tags, caption, images, etc).__
 
+	RealObject Schema
+		id: String,
+		created: Date,
+		updated: Date,
+		source: String,//eg. hostname.tumblr.com
 
 
 ***
