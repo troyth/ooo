@@ -1,4 +1,27 @@
-ooo
-===
+#ooo
 
-An object-oriented approach for the 21st century based on the object-oriented ontology of philosopher Graham Harman
+An essay in code.
+
+##Mission
+
+__ooo__ is a design schema that can be used as the pattern for new types of apps that don't differentiate between static and dynamic content. It leans on the philosophy of Graham Harman presented in his concept of the "quadruple object", a novel ontological schema that builds upon and refactors the work of Heidegger, Husserl, Whitehead and others to present a model for understanding being that does not distinguish _a priori_ between nature and culture, non-humans and humans. The attempt here is to port it into code as the structure for overcoming the divide between apps dedicated to largely static content, and those built for dynamic content.
+
+The resurgence of the web in the early-aughts following the dot-com boom was largely predicated on the LAMP stack. This four-fold opensource techno-feast simultaneously allowed for the rapid deployment of blogging platforms for the dedicated novice, fueled by CMSs like Wordpress, and for the development of massive scalable proprietary platforms like Facebook. With the introduction of the XMLHttpRequest and AJAX, most notably with gmail in 2005, and the adoption of the REST protocol for API calls, the web was born anew as a host for apps. The subsequent explosion of content production, re-mixing and re-cycling through social media has been met with a new suite of tools that allow for DIRTy - Data-Intensive Real-Time - apps, notably Node.js built on the Google V8 Javascript Engine.
+
+Progress in 2013 means carrying on with this trajectory, embodying this telos. While multiple parallel arrows of development are blazing ahead - such as vast improvements in rendering engines and increasingly powerful libraries for increasingly complex graphics leading to regular leaps in interface design - my concern is the movement from static to dynamic content. The development of Node.js provides key testimony to the claim I wish to make: while the Express framework has emerged as an industry standard, and daily more and more libraries are ported from other languages, and new bindings written for powerful C, Java and other compiled language programs, there is still no widely adopted CMS, nor does there seem to be a seed that is even worthy of being considered. To put it another way, the hottest new development workflow for the web has no standard for dealing with putting static content into a database.
+
+The problem I am setting out to attack is not simply how to wire up a DIRTy platform like Node.js to a static content CMS, for Drupal and others already have modules for allowing the two to live adjacently, and even talk to each other on occassion, rather I'm looking for a native, elegant, and emergent way to work with static and dynamic content without differentiating between the two.
+
+By static I mean content that is not typically supposed to change, content that is _published_. A newspaper article may print corrections in a subsequent printing, but the original is never altered, the ethic of which has since been adopted by bloggers and other producers of online content. Static content has a date stamp, it exists in time, and even when edited, is meant to maintain its meaning. By dynamic content I mean feeds, streams and flows. Not only discursive content, such as a feed of images from the Instagram streaming API or posts from an RSS feed, but also other forms of data, such as streams coming from environmental sensors. In other words, not only real-time archives, but also real-time data-sets.
+
+This may not seem profound, nor may it be, but it has led me to consider new ways of programming that I would not have previously entertained. In particular, it maps on well to the theory of Harman, and so I will treat this repository as an essay in code, an attempt to argue a point through trying different structures and rhetoric. Unlike a print essay, it will not be structured with a beginning, middle and end, but will be ever-evolving and distributed. It will not be an exercise in singularity, a performance of virtuosity, but a collaborative effort that relies on coordination and direction, the continous iteration of objectives and stakes.
+
+In particular, what's at stake is a new type of object-oriented programming for the 21st century built on a philosophy made for the new millenium. Harman's object-oriented ontology, the inspiration for _ooo_, is bred from the rejection of a Kantian "correlationism", of the separation of nature and culture or non-human and human that privileges the human in questions of being. Harman's ontology, spun from the simultaneous absorption and rejection of Heidegger, Husserl, Whitehead, Latour and others, does not differentiate modes of being for different objects. Further, it does not discriminate objects based on coherence, size or complexity. That is, Harman's notion of object is inclusive, similar to object-oriented programming: the European Union, a sunset or Pacino's character in Scarface is everybit as much an object as an atom, a rock or a mountain. More, he offers a means by which to understand how each of these objects might interact, how they might perceive one another, enter into a relationship, bind to form new objects, or fragment into many object pieces.
+
+Harman's schema is the _quadruple object_, a structural relationship between four parts providing ten axes of interaction, each of which he names and describes. It is this schema that I will translate into code in an attempt to think differently about static and dynamic content on the web.
+
+In short, it's a somewhat stupid exercise. Trained as an architect, I should know better than to simply transpose theory into practice, philosophical structures into material ones. That said, the actual process is somewhat of a MacGuffin, a decoy or scaffold to structure an exercise in writing an essay in code.
+
+Let me know if you want to join.
+
+
