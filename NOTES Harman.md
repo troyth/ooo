@@ -99,6 +99,12 @@ __A tumblr post, for instance, is a real object because we can make changes to t
 
 ***
 
+#####Ontography
+
+
+
+***
+
 ####Terms
 
 __Taxonomic Fallacy__
@@ -110,4 +116,8 @@ __Speculative Psychology__
 __Polypsychism__
 > Despite my insistence that panpsychism should not be mocked, I cannot defend its use of the prefix pan-, or "all." Hence I will speak of _polypsychism_, in order to stress that the roster of experiencing entities must indeed balloon beyond all previous limits, but without quite extending to _all_ entities. (121)
 
+__Heterogeneous Pair__
+An object-quality pair (125)
 
+__Tension__
+The relationship between a heterogeneous pair is always in tension, whether it is a "banal" relation (SO-SQ, SO-RQ) that requires fission to break it apart, or a relation that require fusion to fuse it together (RO-SQ, RO-RQ).
