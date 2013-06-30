@@ -1,4 +1,6 @@
-### Notes from _The Quadruple Object_
+#Notes from Graham Harman Texts
+
+###_The Quadruple Object_
 
 
 
