@@ -101,6 +101,17 @@ __A tumblr post, for instance, is a real object because we can make changes to t
 
 #####Ontography
 
+> The senssual object cannot possibly exist except in tension with its sensual qualities (time) and its real qualities (eidos), insofar as the sensual object is never something truly autonomous. (126)
+
+> What is required in these case, if anything new is ever to happen, is _fission_ between the two poles [of sensual object and sensual qualities]. (126)
+
+__Sensual objects will always have sensual qualities and real qualities. Maybe real qualities should be static and sensual qualities should be feeds from sensors, because the only way for newness to happen is a fission between them. Maybe each new pulse of a sensor should create a new sensual quality, and delete the previous?__
+
+> Two real or two sensual qualities are linked only insofar as they both belong to the same object. (126)
+
+__There is no direct link between different qualities, they are only ever linked indirectly through a parent object.__
+
+
 
 
 ***
