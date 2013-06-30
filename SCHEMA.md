@@ -10,61 +10,130 @@ SensualObject = OOObject.extend({
 		sensual_qualities: [ SensualQuality ]
 	}],
 
-	//alias for emanate
+	/////// RADIATIONS (128) ///////
+
+	//alias for emanation
 	getSensualQualities: function(i, j){
-		return this.emanate(i, j);
 	},
 
-	//emanate SQs from a SO (127)
-	emanate: function(i, j){
-		if(j) return this.qualities[i].sensual_qualities[j];
-		
-		//if no j param passed, return all sensual qualities
-		if(i) return this.qualities[i].sensual_qualities;
+	//emanation is the SO-SQ relation (127)
+	emanation: function(i, j){
+	},
 
-		//if no parameters passed, return all sensual qualities
-		var return_array = [];
-		for(var q = 0; q < this.qualities.length; q++){
-			return_array.push(this.qualities[q].sensual_qualities);
-		}
-		return return_array;
+	//alias for emanate
+	setSensualQualities: function(sensual_quality, i, j){
+	},
+
+	//add a new SQ to this SO (127)
+	emanate: function(sensual_quality, i, j){
+	},
+
+	//alias for contraction
+	getRealQualities: function(i, j){
+	},
+
+	//contraction is the RQ-SO relation (127)
+	contraction: function(i, j){
 	},
 
 	//alias for contract
-	getRealQualities: function(i, j){
-		return this.contract(i, j);
+	setRealQualities: function(real_quality, i, j){
 	},
 
-	//contract RQs from a SO (127)
-	contract: function(i, j){
-		if(j) return this.qualities[i].real_qualities[j];
-		
-		//if no j param passed, return all real qualities
-		if(i) return this.qualities[i].real_qualities;
-
-		//if no parameters passed, return all real qualities
-		var return_array = [];
-		for(var q = 0; q < this.qualities.length; q++){
-			return_array.push(this.qualities[q].real_qualities);
-		}
-		return return_array;
+	//add a new RQ to this SO (127)
+	contract: function(real_quality, i, j){
 	},
 
-	//getQualities: function(i){
-		return this.duplicit(i);
+	//alias for duplicit
+	getQualities: function(i){
 	},
 
 	//duplicity is RQ-SQ through an SO (127-8)
-	duplicit: function(i){
-		if(i) return this.qualities[i];
-
-		return this.qualities;
+	duplicity: function(i){
 	},
+
+	//alias for duplicit
+	setRealAndSensualQualities: function(real_quality, sensual_quality, i, j){
+	},
+
+	//upsert a real and sensual quality pair
+	duplicit: function(real_quality, sensual_quality, i, j){
+	},
+
+	/////// JUNCTIONS ///////
+
+	//alias for contiguous
+	getSensualObjects: function(i, j){
+	},
+
+	//contiguity is the SO-SO relation (128)
+	contiguous: function(i, j){
+	},
+
+	//alias for contiguate
+	setSensualObjects: function(i, j){
+	},
+
+	//contiguity is the SO-SO relation (128)
+	contiguate: function(i, j){
+	},
+
+	//alias for sincerity
+	getRealObjects: function(i, j){
+	},
+
+	//sincerity is the RO-SO relation (128)
+	sincerity: function(i, j){
+	},
+
+	//alias for sincere
+	setRealObjects: function(real_object, i, j){
+		return sincere(real_object, i, j);
+	},
+
+	//sincerity is the RO-SO relation (128)
+	sincere: function(real_object, i, j){
+	},
+
+
+
+	/////// TENSIONS ///////
+
+	//alias for confront
+	updateSensualQualities: function(attributes, i, j){
+	},
+
+	//change in SO-SQ that produces time (figure 7, 107)
+	confront: function(attributes, i, j){
+	}
+
+
 });
 
 
 RealObject = OOObject.extend({
-	vertical_relations: [ OOObject ]
+	vertical_relations: [{
+		real_objects: [ RealObject ],
+		sensual_objects: [ SensualObject ]
+	}],
+
+	/////// JUNCTIONS ///////
+
+	//alias for sincerity
+	getSensualObjects: function(i, j){
+	},
+
+	//sincerity is the RO-SO relation (128)
+	sincerity: function(i, j){
+	},
+
+	//alias for sincere
+	setSensualObjects: function(sensual_object, i, j){
+	},
+
+	//sincerity is the RO-SO relation (128)
+	sincere: function(sensual_object, i, j){
+	},
 });
 
 

@@ -111,7 +111,7 @@ __Sensual objects will always have sensual qualities and real qualities. Maybe r
 
 __There is no direct link between different qualities, they are only ever linked indirectly through a parent object.__
 
-
+> As for the bond between two real objects, the founding principle of object-oriented philosophy is the insight that such objects make no direct link whatsoever. (128)
 
 
 ***
@@ -132,3 +132,21 @@ An object-quality pair (125)
 
 __Tension__
 The relationship between a heterogeneous pair is always in tension, whether it is a "banal" relation (SO-SQ, SO-RQ) that requires fission to break it apart, or a relation that require fusion to fuse it together (RO-SQ, RO-RQ).
+
+__Emanate__
+Sensual qualities emanate from a sensual object. Taken from a neo-platonic lexicon. (127)
+
+__Contraction__
+Real qualities contract from a sensual object. Taken from Nicholas de Cusa. (127)
+
+__Duplicity__
+The RQ-SQ pair in an SO. (127-8)
+
+__Contiguity__
+> Sensual objects are linked only through their _contiguity_ in the same field of experience for a single observer: I encounter not just one sensual object at a time, but many.
+
+__Withdrawl__
+> If two sensual objects can never be anything better than contiguous, two real objects co-exist in the manner of _withdrawl_, having no interrelation at all. (128)
+
+__Sincerity__
+> This leaves only the RO-SO pair, which we have called the _sincerity_ of immediate contact. Here, the experiencer as a real object is in direct contact with a sensual object. (128)
