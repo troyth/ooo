@@ -1,10 +1,35 @@
 #Schema for OOO
 
-
+	/*================================
+	=            OOObject            =
+	================================*/
+	
+	/**
+	*
+	* OOObject
+	*
+	* OOObject is the main object prototype that SOs and ROs will be built upon
+	*
+	**/
 	OOObject = {
 		id: String
 	}
 
+	/*-----  End of OOObject  ------*/
+	
+
+	/*======================================
+	=            Sensual Object            =
+	======================================*/	
+	
+	/**
+	*
+	* Sensual Object
+	*
+	* SOs are the result of analysis, of breaking down ROs.
+	* SOs are the building blocks of ROs.
+	*
+	**/
 	SensualObject = OOObject.extend({
 		horizontal_relations: [ SensualObject ],
 		//pairs groups of real and sensual qualities to allow for RQ-RQ, RQ-SQ and SQ-SQ through the SO
@@ -13,7 +38,8 @@
 			sensual_qualities: [ SensualQuality ]
 		}],
 
-		/////// RADIATIONS (128) ///////
+		/*==========  RADIATIONS (128)  ==========*/
+		
 
 		//alias for emanation
 		getSensualQualities: function(i, j){
@@ -63,7 +89,8 @@
 		duplicit: function(real_quality, sensual_quality, i, j){
 		},
 
-		/////// JUNCTIONS ///////
+		/*==========  JUNCTIONS  ==========*/
+		
 
 		//alias for contiguous
 		getSensualObjects: function(i, j){
@@ -99,9 +126,8 @@
 		},
 
 
-
-		/////// TENSIONS ///////
-
+		/*==========  TENSIONS  ==========*/
+		
 		//alias for confront
 		updateSensualQualities: function(attributes, i, j){
 		},
@@ -110,9 +136,24 @@
 		confront: function(attributes, i, j){
 		}
 
-
 	});
+	/*-----  End of Sensual Object  ------*/
 
+
+	/*===================================
+	=            Real Object            =
+	===================================*/
+	
+	/**
+	*
+	* RealObject
+	*
+	* ROs are the inputs to the entire system from an external API, file upload,
+	* data stream, query or otherwise.
+	* ROs are the outputs of the system, comprised of SOs (and RQs and SQs, as applicable).
+	*
+	**/
+	
 
 	RealObject = OOObject.extend({
 		vertical_relations: [{
@@ -138,21 +179,57 @@
 		sincere: function(sensual_object, i, j){
 		},
 	});
+	/*-----  End of Real Object  ------*/
 
 
+	/*==================================
+	=            OOOQuality            =
+	==================================*/
+	
+	/**
+	*
+	* OOOQuality
+	*
+	* OOOQuality is the main quality prototype that SQs and RQs will be built upon
+	*
+	**/
 	OOOQuality = {
 		id: String,
 		count: Number,
 		ooobjects: [ OOObject ]
 	}
-
+	
+	/*-----  End of OOOQuality  ------*/
+	
+	
+	
+	/*=======================================
+	=            Sensual Quality            =
+	=======================================*/
+	
 	SensualQuality = OOOQuality.extend({
 		type: String
 	});
+	
+	
+	/*-----  End of Sensual Quality  ------*/
+	
+	
 
+	
+	/*====================================
+	=            Real Quality            =
+	====================================*/
+	
 	RealQuality = OOOQuality.extend({
 		type: String,
 		source: String,
 		source_id: String, //the id the source uses to identify the quality
 		tags: [ String ],
 	});
+	
+	
+	/*-----  End of Real Quality  ------*/
+	
+	
+	
