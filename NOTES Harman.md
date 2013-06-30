@@ -2,6 +2,14 @@
 
 ##_The Quadruple Object_
 
+####Key Ideas
+
+> For the purposes of this book, an object is anything that has a unified reality that is autonomous from its wider context and also from its own pieces. (116)
+
+> There may be infinite regress, but no infinite progress: no final, encompassing object that could be called a universe. (122)
+
+***
+
 ######Objects
 
 > For the purposes of this book, an object is anything that has a unified reality that is autonomous from its wider context and also from its own pieces. (116)
@@ -38,6 +46,8 @@ __This illustrates the formation of an object. Objects can be formed from:__
 
 > If all relations are on the same footing, and all relations are equally inept at exhausting the depths of their terms, then an intermediate form of contact between things must be possible. This contact can only take a _sensual_ form, since it can only encounter translated or distorted versions of other objects. (120)
 
+> While it is true that a real object arises from a descending chain of countless smaller components, it does not follow that it must also enter further relations as a component of larger objects. (122)
+
 Objects have relations in two axes: vertical and horizontal. Vertical relations are those component pieces that make up a real object. Horizontal relations are relations to other objects in the world, and are thus reserved only for sensual objects.
 
 __Real objects only have vertical relations. Sensual objects only have horizontal relations.__
@@ -54,12 +64,33 @@ __Real objects only have vertical relations. Sensual objects only have horizonta
 
 > Even inanimate objects do not react to all the data available to them; minute fluctuations in the surface of a table may affect a paperweight in some way without the paperweight ceasing to encounter it as a table. (120-1)
 
+> The rift between sensual objects and their qualities is not a special poignant feature of animal or human mentality, but belongs to the very structure of the relation. (121)
+
+> We must always avoid the Taxonomic Fallacy by not distributing the terms "perceiving" and "non-perceiving" among specific _kinds_ of entities. Instead, perceiving and non-perceiving must be found in the same entity at different times; they are modes of being rather than types of object. (121)
+
+> Objects do not perceive insofar as they _exist_, as panpsychism proclaims. Instead, they perceive insofar as the _relate_. (121-2)
+
+> Recall that to perceive means to encounter sensual objects on the interior of a larger object, and that a real entity is located on such an interior thanks to a relation it makes with a _component_ of that more encompassing object. (122)
+
+> Not all objects perceive at all times; some objects are sleeping, or _dormant_. (122)
+
+> An object is real when it forms an autonomous unit able to withstand certain changes in its pieces. (122)
+
+
 __By separating sensual object and qualities, changes in the qualities of a sensual object that is in relation to another need not affect the other object.__
 
 	Schema
 		SensualObject.sensual_qualities: new SensualQualities({
 			data: data
 			})
+
+__Dormant objects are those real objects that have not been annotated, highlighted and dissected into component parts.__
+
+__When we pull elements from a real object by annotating, highlighting, dissecting, they become sensual objects?__
+
+__A tumblr post, for instance, is a real object because we can make changes to the tumblr post on tumblr, re-sync, and it will still have the same id, be largely the same content, and thus the same real object, it will just have had some of its qualities changed (tags, caption, images, etc).__
+
+
 
 ***
 
@@ -70,3 +101,8 @@ Wrongly ascribing two different ontological structures to two separate _kinds_ o
 
 __Speculative Psychology__
 > Skrbina observes that panpsychism has no need to project special human traits onto rocks and atoms. In fact, philosophy needs a more dedicated speculation on the different levels of psyche at different levels of objects: a still nonexistant field that I like to call "speculative psychology". (120)
+
+__Polypsychism__
+> Despite my insistence that panpsychism should not be mocked, I cannot defend its use of the prefix pan-, or "all." Hence I will speak of _polypsychism_, in order to stress that the roster of experiencing entities must indeed balloon beyond all previous limits, but without quite extending to _all_ entities. (121)
+
+
