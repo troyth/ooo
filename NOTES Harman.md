@@ -3,8 +3,7 @@
 ###_The Quadruple Object_
 
 > Recall that the sensual is what exists only in relation to the perceiver, and that the real is whatever withdraws from that relation. But if we consider a real hammer, it is not just withdrawn from any relation that other entities might have with it. The hammer is also _composed_ of relations between its component objects. (110)
-
-
+>
 > It is not enough to think of an object as existing in two forms: first in itself, and second as it appears in any relation. Instead, the object is a walled island that differs from relations in both directions. (111)
 
 > Given that an object must inherently be a unity, its multitude of qualities can only arise from the plurality of its pieces. Thus this is no object without pieces, and an infinite regress occurs. (112)
