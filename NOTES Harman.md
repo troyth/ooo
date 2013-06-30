@@ -72,7 +72,7 @@ __Real objects only have vertical relations. Sensual objects only have horizonta
 
 > Recall that to perceive means to encounter sensual objects on the interior of a larger object, and that a real entity is located on such an interior thanks to a relation it makes with a _component_ of that more encompassing object. (122)
 
-> Not all objects perceive at all times; some objects are sleeping, or _dormant_. (122)
+> Not all objects perceive at all times; some objects are sleeping, or _dormant_... In principle, some objects might remain dormant forever. (122,123)
 
 > An object is real when it forms an autonomous unit able to withstand certain changes in its pieces. (122)
 
