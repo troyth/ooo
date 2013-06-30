@@ -14,4 +14,8 @@ Objects have relations in two axes: vertical and horizontal. Vertical relations 
 
 __Real objects only have vertical relations. Sensual objects only have horizontal relations.__
 
+	RealObject.vertical_relations: []
+
+	SensualObject.horizontal_relations: []
+
 ***
