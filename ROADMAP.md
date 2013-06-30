@@ -7,3 +7,5 @@
 5.	Develop test app in Node.js
 6.	Reconfigure test Node.js app to use Backbone
 7.	Develop production quality app for re-mixing objects
+8.	Teach Site to Site course at Columbia GSAPP using _ooo_
+9.	Find collaborators
