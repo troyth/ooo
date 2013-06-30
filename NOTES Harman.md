@@ -21,3 +21,8 @@ __Real objects only have vertical relations. Sensual objects only have horizonta
 	SensualObject.horizontal_relations: []
 
 ***
+
+#####Terms
+
+__Taxonomic Fallacy__
+Wrongly ascribing two different ontological structures to two separate _kinds_ of beings. Harman prefers that everything is just an object, which avoids correlationism.
