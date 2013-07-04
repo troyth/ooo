@@ -113,6 +113,9 @@ __There is no direct link between different qualities, they are only ever linked
 
 > As for the bond between two real objects, the founding principle of object-oriented philosophy is the insight that such objects make no direct link whatsoever. (128)
 
+> In the case of any pairing of qualities, it is obvious that their normal state of existence is to be bound together in the same object: the multiple accidents of a sensual tree belong together only through the mediation of the tree, and the same holds for its numerous real qualities. (131)
+
+
 
 ***
 
